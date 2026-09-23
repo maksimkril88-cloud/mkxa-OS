@@ -1,10 +1,10 @@
 # mkxa-OS
-MKXA OS – własny Linux oparty na Arch, zoptymalizowany pod gry i szybkość.
+MKXA OS – własny Linux oparty na Fedorze, zoptymalizowany pod gry i szybkość.
 
 ## ⚠️ WAŻNE – ZANIM ZAINSTALUJESZ
 
 Ten system jest tworzony w celach edukacyjnych i eksperymentalnych.  
-MKXA OS jest dystrybucją opartą na Arch Linux i może zawierać błędy lub nieprzewidziane zachowania.
+MKXA OS jest dystrybucją opartą na Fedorze i może zawierać błędy lub nieprzewidziane zachowania.
 
 **Instalujesz na własną odpowiedzialność.**
 
